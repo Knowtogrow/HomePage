@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".subject_choice.MainActivity">
+
+    <Spinner
+        android:id="@+id/spinner1"
+        android:layout_width="354dp"
+        android:layout_height="62dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginRight="38dp"
+        android:entries="@array/Subject_1"
+        android:prompt="@array/Subject_1"
+        android:spinnerMode="dropdown"
+        tools:ignore="HardcodedText,RtlHardcoded" />
+
+    <Spinner
+        android:id="@+id/spinner2"
+        android:layout_width="345dp"
+        android:layout_height="62dp"
+        android:layout_below="@+id/spinner1"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginRight="38dp"
+        tools:ignore="RtlHardcoded" />
+
+    <Spinner
+        android:id="@+id/spinner3"
+        android:layout_width="345dp"
+        android:layout_height="62dp"
+        android:layout_below="@+id/spinner2"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginRight="38dp"
+        tools:ignore="RtlHardcoded" />
+
+    <Spinner
+        android:id="@+id/spinner4"
+        android:layout_width="345dp"
+        android:layout_height="62dp"
+        android:layout_below="@+id/spinner3"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="19dp"
+        android:layout_marginLeft="19dp"
+        android:layout_marginTop="15dp"
+        android:layout_marginEnd="38dp"
+        android:layout_marginRight="38dp"
+        tools:ignore="RtlHardcoded" />
+
+    <Button
+        android:id="@+id/btnSubmit"
+        android:layout_width="153dp"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spinner4"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="129dp"
+        android:layout_marginLeft="129dp"
+        android:layout_marginTop="18dp"
+        android:layout_marginEnd="129dp"
+        android:layout_marginRight="129dp"
+        android:background="@drawable/rounded_button"
+        android:backgroundTint="#1a237e"
+        android:text="Done"
+        android:textColor="#ffffff"
+        android:onClick="btn_CareerOpportunity"
+        tools:ignore="HardcodedText,OnClick,RtlHardcoded,UnusedAttribute" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="87dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="9dp"
+        android:layout_marginLeft="9dp"
+        android:layout_marginTop="17dp"
+        android:layout_marginEnd="23dp"
+        android:layout_marginRight="23dp"
+        android:text="CHOOSE YOUR SUBJECT"
+        android:textColor="#1a237e"
+        android:textSize="33sp"
+        android:textStyle="bold"
+        tools:ignore="HardcodedText,RtlHardcoded" />
+
+
+</RelativeLayout>

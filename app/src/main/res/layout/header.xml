@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:orientation="vertical"
+    android:background="@drawable/button3"
+    android:gravity="bottom"
+    android:padding="20dp">
+
+    <ImageView
+        android:layout_width="223dp"
+        android:layout_height="101dp"
+        android:src="@drawable/ic_baseline_person_pin_24" />
+
+    <TextView
+        android:layout_width="224dp"
+        android:layout_height="wrap_content"
+        android:text="Simran Bhatti"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+    <TextView
+        android:layout_width="227dp"
+        android:layout_height="wrap_content"
+        android:text="SimranBhatti@gmail.com"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="16dp" />
+
+
+
+</LinearLayout>

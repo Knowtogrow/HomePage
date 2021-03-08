@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SUBJECT CHOICE</string>
+    <string name="Subjects">choose a subject</string>
+    <string-array name="Subject_1">
+        <item>Maths</item>
+        <item>Sociology</item>
+        <item>Geography</item>
+        <item>History</item>
+        <item>Physchology</item>
+        <item>Computer Science</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Political Science</item>
+        <item>Fine arts</item>
+        <item>English</item>
+        <item>Hindi</item>
+        <item>Physical Education</item>
+
+
+    </string-array>
+</resources>

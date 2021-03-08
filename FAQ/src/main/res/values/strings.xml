@@ -1,0 +1,123 @@
+<resources>
+    <string name="app_name">FAQ</string>
+    <string name="large_text">
+        <b>"                                                  FAQ \n</b>"
+
+<b> "Q: Do you provide college admission/ job recruitment
+        assistance?</b> \n"
+        "No."
+
+<b> "Q:	Are your Counsellors professionally skilled?</b> \n"
+       "All our counsellors are professionally skilled. Many are"
+       "from the psychology background having sound"
+       "experience in counselling and psychometric. Others"
+       "are also having ample experience in counselling and"
+       "education guidance with the myriad of experience that"
+       "they have from their established careers."
+
+<b>"Q: After assessment, will your app get me a job also? </b>\n"
+      "No, we strictly do not promote any admission or job"
+      "recruitment."
+
+<b>"Q: Do you also have any assessment for especially abled
+      students?</b>\n"
+      "No, not currently.\n"
+<b>"Q: Can students with visual/hearing impairment also sit for
+      this aptitude test?</b>\n"
+      "If the impairment does not interfere with normal"
+      "functioning and the applicant is leading a normal life"
+      "going to a normal school, it may be sure taken up."
+
+<b>"Q: Is the aptitude test available in other languages also?</b>\n"
+      "No, not as of now but we surely intend to enter that"
+      "zone very soon."
+
+<b>"Q: With all the career assessments out there, why should I
+       choose your aptitude test?</b>\n"
+      "Although there are many assessments, few, if any,"
+      "approached work from a comprehensive perspective."
+      "Fewer still covered all four aspects of career selection"
+      "(Personality, Interests, Skills, and Study Habits). Most"
+      "only cover one or two of these areas. More than one of"
+      "test is usually necessary to cover all of the components"
+      "a complete personal profile. Our aptitude test was"
+      "developed based on comprehensive principles and"
+      "designed to provide a full profile in one assessment"
+      "report."
+
+<b>"Q: What makes KnowToGrow unique?</b>\n"
+      "Components of our KnowToGrow app provide"
+      "information which is inspired from the recently proposed"
+      "education system also the aptitude test is designed"
+      "accordingly as all the subjects from different streams"
+      "are added to it for a better understanding of students."
+
+<b>"Q: What is Career Assessment?</b>\n"
+      "An assessment is a series of questions or statements"
+      "that one answers or responds to, that are then scored"
+      "by hand or computer. The results are provided in a report"
+      "that measures or gives feedback on the particular topic"
+      "(aptitude, personality, interest, adjustment, etc.) of the"
+      "assessment. A Career Assessment gives information"
+      "about careers and helps one make wise career-related"
+      "decisions."
+
+<b>"Q: Why is Career planning and guidance Important?
+     Does Career Guidance make a difference?</b>\n"
+      "Your career is totally your responsibility. Career planning"
+      "and guidance helps one to develop a set of career goals,"
+      "strategy and options based on your aptitude, interests,"
+      "personality, values and skills. Once you have a plan, you"
+      "will be equipped to self-manage your career and take"
+      "advantage of changes in the economy and job market"
+      "rather than becoming a victim of change. Your career"
+      "decisions will dramatically impact your lifestyle. Your"
+      "occupation will determine where you live, your income,"
+      "your work hours, your travels, job security, your choice"
+      "of work associates and friends, and how you spend your"
+      "leisure time."
+
+<b>"Q: What is the accuracy of suggested careers in the app?</b>\n"
+      "The accuracy would depend on how seriously or honestly"
+      "the Career Aptitude Test is taken, since the interpretation"
+      "and suggested careers would completely depend on the"
+      "Test results. Moreover, the suggested careers are"
+      "optimised suggestions of your Interest, Personality"
+      "and Aptitude."
+
+<b>"Q: What is the assurance of the legitimacy of the
+       shortlisted careers?</b>\n"
+      "There are many ways to find out the right career like"
+      "suggestions from Friends, Family, Teachers,Coaching"
+      "Institutes, Jyotish, etc. Our methodology of choosing"
+      "the right career is psychometric tests based on"
+      "cognitive science."
+      "It is one of the most proven and accepted methods"
+      "across the globe. Our reliability and validity report"
+      "of sample students indicates the consistency and"
+      "accuracy. Although no one can be 100% sure about"
+      "the right career, but this method is one of the best"
+      "methodologies in career counselling."
+
+<b>"Q: What if a student has something in mind, but want to
+     explore other options as well?</b>\n"
+      "The test results are unbiased, so you can explore"
+      "careers based on the suggested career options."
+
+<b>"Q: What is the difference between paper-based test in
+    career counselling centres and your approach?</b>\n"
+     "Our approach is online test and automated report"
+     "with an algorithm calculating a combination of more"
+     "than 1000 careers, which manually is very difficult"
+     "to achieve. The chances of errors in making answers,"
+     "incorporating thousands of factors and shortlisting"
+     "careers in report is negligible in automated report"
+     "compared to paper-based tests. Moreover, the online"
+     "test and automated report is far more cost effective"
+     "and less time consuming with much better results."
+
+
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="faq">FAQ</string>
+</resources>

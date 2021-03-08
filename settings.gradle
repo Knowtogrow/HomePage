@@ -1,0 +1,6 @@
+include ':Subject_Choice'
+include ':Aptitude Test'
+include ':Ask The Expert'
+include ':FAQ'
+include ':app'
+rootProject.name = "Home Screen"
